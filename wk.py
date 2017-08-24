@@ -2,4 +2,4 @@
 # Copyright: Jesse Johnson <github.com/holocronweaver/wanki>
 # License: Mozilla Public License 2.0
 
-# import
+import wanikani.example
