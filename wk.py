@@ -3,3 +3,4 @@
 # License: Mozilla Public License 2.0
 
 import wanikani.example
+import wanikani.statistics
